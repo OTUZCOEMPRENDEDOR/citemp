@@ -7813,7 +7813,8 @@ textarea.form-control {
 
 .header .ps-logo {
   display: block;
-  width: 150px;
+  /*width: 150px;*/
+  width: 12%;
   position: absolute;
   top: 10px;
   left: 0;
